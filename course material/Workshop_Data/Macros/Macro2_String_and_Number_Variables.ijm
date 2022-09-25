@@ -28,7 +28,7 @@ print("The number stored in number_var:");
 print(number_var);
 
 // Number-type variables can be used interchangeably with explicity-typed numbers.
-// Here we assign two variables the values 10 and 5, then use these in a calculation
+// Here we assign two numbers to variables, then use these in a calculation
 // and assign the resulting value to another variable.
 my_number_1 = ;
 my_number_2 = ;
