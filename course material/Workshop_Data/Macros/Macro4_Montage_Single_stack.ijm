@@ -87,4 +87,3 @@ run("Scale Bar...", "width=10 height=4 font=14 color=White background=None locat
 
 saveAs("Tiff", "/Users/Anika/Desktop/Montage-"+Image_name);
 close("*");
-
