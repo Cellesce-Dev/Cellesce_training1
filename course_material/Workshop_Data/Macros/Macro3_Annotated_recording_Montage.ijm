@@ -73,5 +73,9 @@ run("Scale Bar...", "width=10 height=4 font=14 color=White background=None locat
 // Save Montage
 // 		For batch processing define an outputfolder and change the name to reflect the original Image name
 
-saveAs("Tiff", "/Users/Anika/Desktop/Montage.tif");
+
+//saveAs("Tiff", "/Users/Anika/Desktop/Montage.tif");
+
+//save in the container
+saveAs("Tiff", "/app/example stacks/Montage.tif);
 
